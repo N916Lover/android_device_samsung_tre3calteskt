@@ -1,2 +1,1 @@
-add_lunch_combo lineage_tre3calteskt-userdebug
-add_lunch_combo rr_tre3calteskt-userdebug
+add_lunch_combo havoc_tre3calteskt-userdebug
